@@ -24,9 +24,10 @@
 最新版本下载地址：
 
 * **Android APK**：[下载 Android 版](https://update.tongbaovpn.com/app-release.apk?v=1.16.32&t=1757397093)
-* **Windows 客户端**：\[下载 Windows 版]\([https://update.tongbaovpn.com/TongBao](https://update.tongbaovpn.com/TongBao) VPN Windows\_1.6.38.exe)
-* **macOS (Intel 64-bit)**：\[下载 Mac x64 版]\([https://update.tongbaovpn.com/TongBao](https://update.tongbaovpn.com/TongBao) VPN 1.6.38\_x64.dmg)
-* **macOS (Apple Silicon)**：\[下载 Mac ARM 版]\([https://update.tongbaovpn.com/TongBao](https://update.tongbaovpn.com/TongBao) VPN 1.6.38\_arm64.dmg)
+* **Windows 客户端**：[下载 Windows 版](https://update.tongbaovpn.com/TongBaoVPN_Windows_1.6.38.exe)
+* **macOS (Intel 64-bit)**：[下载 Mac x64 版](https://update.tongbaovpn.com/TongBaoVPN_1.6.38_x64.dmg)
+* **macOS (Apple Silicon)**：[下载 Mac ARM 版](https://update.tongbaovpn.com/TongBaoVPN_1.6.38_arm64.dmg)
+
 
 
 ## 🚀 通宝 VPN 使用教程
