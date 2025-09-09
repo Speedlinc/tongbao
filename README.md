@@ -28,13 +28,6 @@
 * **macOS (Intel 64-bit)**：\[下载 Mac x64 版]\([https://update.tongbaovpn.com/TongBao](https://update.tongbaovpn.com/TongBao) VPN 1.6.38\_x64.dmg)
 * **macOS (Apple Silicon)**：\[下载 Mac ARM 版]\([https://update.tongbaovpn.com/TongBao](https://update.tongbaovpn.com/TongBao) VPN 1.6.38\_arm64.dmg)
 
-我们也在 GitHub Releases 提供镜像下载（可选）：
-
-* [Windows VPN 客户端](https://github.com/your-repo/your-project/releases)
-* [macOS VPN 客户端](https://github.com/your-repo/your-project/releases)
-* [iOS 使用说明](https://your-domain.com/help/ios)
-
----
 
 ## 🚀 通宝 VPN 使用教程
 
@@ -83,8 +76,8 @@
 
 ## 🌐 联系与支持
 
-* 官网：[https://your-domain.com](https://www.tongbaovpn.com/)
-* 帮助中心：[https://your-domain.com/help](https://www.tongbaovpn.com/faq)
+* 官网：[https://www.tongbaovpn.com/](https://www.tongbaovpn.com/)
+* 帮助中心：[https://www.tongbaovpn.com/fa](https://www.tongbaovpn.com/faq)
 <!-- * 技术支持邮箱：[support@your-domain.com](mailto:support@your-domain.com) -->
 
 ---
