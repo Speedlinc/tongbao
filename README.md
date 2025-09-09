@@ -77,7 +77,7 @@
 ## 🌐 联系与支持
 
 * 官网：[https://www.tongbaovpn.com/](https://www.tongbaovpn.com/)
-* 帮助中心：[https://www.tongbaovpn.com/fa](https://www.tongbaovpn.com/faq)
+* 帮助中心：[https://www.tongbaovpn.com/faq](https://www.tongbaovpn.com/faq)
 <!-- * 技术支持邮箱：[support@your-domain.com](mailto:support@your-domain.com) -->
 
 ---
