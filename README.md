@@ -29,7 +29,6 @@
 * **macOS (Apple Silicon)**：[下载 Mac ARM 版](https://update.tongbaovpn.com/TongBaoVPN_1.6.38_arm64.dmg)
 
 
-
 ## 🚀 通宝 VPN 使用教程
 
 1. 从官网下载或 GitHub Releases 安装最新版本
