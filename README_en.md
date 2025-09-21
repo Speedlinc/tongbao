@@ -1,4 +1,4 @@
-
+[🇨🇳 中文版说明](./README.md) | [🌍 English Version](./README_en.md)
 
 # 🚀 TongBao VPN - Fast VPN · Stable VPN · Free VPN Download
 

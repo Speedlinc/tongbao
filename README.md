@@ -1,4 +1,4 @@
-[🇨🇳 中文版说明](./README_zh.md) | [🌍 English Version](./README.md)
+[🇨🇳 中文版说明](./README.md) | [🌍 English Version](./README_en.md)
 
 ---
 
