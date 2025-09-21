@@ -52,8 +52,8 @@
 👉 更多详细教程：
 
 * [Windows VPN 安装教程](https://www.tongbaovpn.com/faq/7-Windows%E7%89%88%E6%9C%AC%E7%9A%84%E9%80%9A%E5%AE%9DVPN%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
-* [Mac / Android 使用指南](https://www.tongbaovpn.com/faq)
-
+* [Mac VPN 安装教程](https://www.tongbaovpn.com/faq/6-Mac%E7%89%88%E6%9C%AC%E7%9A%84%E9%80%9A%E5%AE%9DVPN%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
+* [Andriod 各种机型 安装教程](https://www.tongbaovpn.com/faq)
 ---
 
 ## ❓ 常见问题（VPN FAQ）
