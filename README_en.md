@@ -1,8 +1,4 @@
-太棒了 ✅
-下面是为你生成的 **英文版 SEO 优化版 README（README_en.md）**，与中文版语义、关键词和结构完全对应，针对英文 SEO（如 “Free VPN”, “Unlimited VPN”, “Fast VPN”, “Stable VPN”, “Netflix VPN”, “ChatGPT VPN”, “Free Trial VPN” 等）进行了强化。
-
----
-
+[🇨🇳 中文版说明](./README.md) | [🌍 English Version](./README_en.md)
 # 🚀 TongBao VPN - **Free Forever · Fast VPN · Stable VPN for Streaming & Gaming**
 
 **TongBao VPN** is a professional **free, fast, and stable VPN** service designed for secure browsing, streaming, and gaming acceleration.
