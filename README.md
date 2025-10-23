@@ -25,10 +25,10 @@
 
 下载通宝 VPN 最新版本客户端：
 
-* **Android APK** 👉 [下载 Android 版](https://update.tongbaovpn.com/app-release.apk?v=1.16.32&t=1757397093)
-* **Windows 客户端** 👉 [下载 Windows 版](https://update.tongbaovpn.com/TongBaoVPN_Windows_1.6.38.exe)
-* **macOS (Intel x64)** 👉 [下载 Mac x64 版](https://update.tongbaovpn.com/TongBaoVPN_1.6.38_x64.dmg)
-* **macOS (Apple Silicon M1/M2/M3)** 👉 [下载 Mac ARM 版](https://update.tongbaovpn.com/TongBaoVPN_1.6.38_arm64.dmg)
+* **Android APK** 👉 [下载 Android 版](https://www.tongbaovpn.com/)
+* **Windows 客户端** 👉 [下载 Windows 版](https://www.tongbaovpn.com/)
+* **macOS (Intel x64)** 👉 [下载 Mac x64 版](https://www.tongbaovpn.com/)
+* **macOS (Apple Silicon M1/M2/M3)** 👉 [下载 Mac ARM 版](https://www.tongbaovpn.com/)
 
 ✅ 永久免费下载
 ✅ 注册赠送 3天 VIP + 每日 100M 免费流量
