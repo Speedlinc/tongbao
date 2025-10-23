@@ -25,10 +25,10 @@ Whether you want to **unblock Netflix, YouTube, ChatGPT, Google, Facebook, or Ti
 
 Get the latest TongBao VPN client here:
 
-* **Android APK** 👉 [Download Android](https://update.tongbaovpn.com/app-release.apk?v=1.16.32&t=1757397093)
-* **Windows Client** 👉 [Download Windows](https://update.tongbaovpn.com/TongBaoVPN_Windows_1.6.38.exe)
-* **macOS (Intel x64)** 👉 [Download macOS x64](https://update.tongbaovpn.com/TongBaoVPN_1.6.38_x64.dmg)
-* **macOS (Apple Silicon M1/M2/M3)** 👉 [Download macOS ARM](https://update.tongbaovpn.com/TongBaoVPN_1.6.38_arm64.dmg)
+* **Android APK** 👉 [Download Android](https://www.tongbaovpn.com/)
+* **Windows Client** 👉 [Download Windows](https://www.tongbaovpn.com/)
+* **macOS (Intel x64)** 👉 [Download macOS x64](https://www.tongbaovpn.com/)
+* **macOS (Apple Silicon M1/M2/M3)** 👉 [Download macOS ARM](https://www.tongbaovpn.com/)
 
 ✅ **Always free to download**
 ✅ **3-day VIP trial + 100MB free every day**
