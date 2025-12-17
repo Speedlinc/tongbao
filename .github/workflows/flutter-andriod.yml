@@ -12,14 +12,16 @@ env:
 jobs:
   build-android:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: sulian_app   # 这里换成含 pubspec.yaml 的目录
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          submodules: true  # 如果 sulian_app 是子模块就保留，否则可删
 
+      - name: List files for debug
+        run: ls -la
+
+      # 若确认 sulian_app 在子目录，则加上 working-directory；如果代码在根目录，删除下面的 working-directory 行
       - name: Setup Java
         uses: actions/setup-java@v4
         with:
@@ -34,15 +36,19 @@ jobs:
 
       - name: Flutter version
         run: flutter --version
+        working-directory: sulian_app   # 仅当真正存在该目录；若在根目录，删除这一行
 
       - name: Flutter pub get
         run: flutter pub get
+        working-directory: sulian_app   # 同上
 
       - name: Build APK
         run: flutter build apk --release
+        working-directory: sulian_app   # 同上
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
           name: sulian-app-apk
           path: build/app/outputs/flutter-apk/app-release.apk
+          working-directory: sulian_app   # 若在根目录，删掉这行
