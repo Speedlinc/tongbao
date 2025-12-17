@@ -1,0 +1,52 @@
+name: Build Android (sulian_app)
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+env:
+  CI_FLUTTER_VERSION: '3.22.3'
+
+jobs:
+  build-android:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout 仓库
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. 安装 Java 1.8
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'zulu'
+          java-version: '8'   # 改成 1.8
+
+      # 3. 安装 Flutter
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.CI_FLUTTER_VERSION }}
+          cache: true
+
+      # 4. 输出 Flutter / Dart 版本
+      - name: Flutter version
+        run: flutter --version
+
+      # 5. 获取依赖（包括 flutter_v2ray）
+      - name: Flutter pub get
+        run: flutter pub get
+
+      # 6. 构建 APK（release）
+      - name: Build APK
+        run: flutter build apk --release
+
+      # 7. 上传构建产物
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: sulian-app-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
