@@ -12,15 +12,18 @@ env:
 jobs:
   build-android:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout sulian_app
         uses: actions/checkout@v4
+        with:
+          repository: Speedlinc/sulian_app
+          ref: main          # 或你需要的分支/标签
+          submodules: false   # 如需子模块改为 true
 
       - name: Setup Java
         uses: actions/setup-java@v4
         with:
-          distribution: 'zulu'
+          distribution: zulu
           java-version: '8'
 
       - name: Setup Flutter
