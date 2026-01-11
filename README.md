@@ -1,6 +1,5 @@
 # 🚀 通宝 VPN (TongBao VPN) - 永久免费 VPN 下载 | 稳定科学上网 & 跨境加速器
 
-[![GitHub stars](https://img.shields.io/github/stars/tongbaovpn/tongbaovpn?style=social)](https://www.tongbaovpn.com/)
 [🇨🇳 中文版](./README.md) | [🌍 English Version](./README_en.md)
 
 **通宝 VPN** 是一款专为 2026 网络环境设计的 **高速稳定 VPN**。基于自研 **VLESS + Reality** 技术，完美解决 **VPN 下载** 后连不上、速度慢、被封锁等痛点。
@@ -13,7 +12,7 @@
 
 ---
 
-## 🌟 为什么选择通宝 VPN？（SEO 核心优势）
+## 🌟 为什么选择通宝 VPN？
 
 根据必应 (Bing) 大数据反馈，我们针对用户最关心的网络问题进行了深度优化：
 

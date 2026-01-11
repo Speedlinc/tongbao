@@ -1,6 +1,5 @@
 # 🚀 TongBao VPN - Best Free VPN Download | Stable & High-Speed Proxy for Global Access
 
-[![GitHub stars](https://img.shields.io/github/stars/tongbaovpn/tongbaovpn?style=social)](https://www.tongbaovpn.com/)
 [🇨🇳 中文版](./README.md) | [🌍 English Version](./README_en.md)
 
 **TongBao VPN** is a secure, high-speed, and reliable networking tool designed for 2026. Powered by **VLESS + Reality** technology, it perfectly solves connectivity issues, slow speeds, and censorship blocks.
